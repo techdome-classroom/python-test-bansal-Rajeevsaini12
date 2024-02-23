@@ -17,6 +17,6 @@ class Solution(object):
 
 
 Sol=Solution()
-print(s.romanToInt('III'))
-print(s.romanToInt('LVIII'))
-print(s.romanToInt('MCMXCIV'))
+print(Sol.romanToInt('III'))
+print(Sol.romanToInt('LVIII'))
+print(Sol.romanToInt('MCMXCIV'))
